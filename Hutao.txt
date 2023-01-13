@@ -1,2 +1,3 @@
 Hutao:
-+Xingqiu = Archer
++Xingqiu = Archers
++Zhongli = one power
