@@ -1,2 +1,3 @@
 Hutao:
-+Xingqiu = Archer
++Yelan = Big Archer
++Zhongli = One Power
