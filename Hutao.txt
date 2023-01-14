@@ -1,3 +1,9 @@
 Hutao:
 +Xingqiu = Archers
-+Zhongli = One Power
++Zhongli = Life
++Shatang = Debuff
+
+Shenlilinghua：
++Shenhe = Power up
++Wanye = Together
++Xinhai = Woods
