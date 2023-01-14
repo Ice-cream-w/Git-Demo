@@ -1,8 +1,9 @@
+shangban
 Hutao:
 +Xingqiu = Archers
 +Zhongli = Life
 +Shatang = Debuff
-
+xiaban
 Shenlilinghua：
 +Shenhe = Power up
 +Wanye = Together
