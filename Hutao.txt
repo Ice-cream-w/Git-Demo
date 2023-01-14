@@ -1,10 +1,10 @@
 shangban
-Hutao:
+Hutao:+humo
 +Xingqiu = Archers
 +Zhongli = Life
 +Shatang = Debuff
 xiaban
-Shenlilinghua：
+Shenlilinghua：+wuqie
 +Shenhe = Power up
 +Wanye = Together
 +Xinhai = Woods
