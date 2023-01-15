@@ -7,5 +7,6 @@ public class Hutao {
         System.out.println("抽个夜兰！");
         System.out.println("抽个一命！");
         System.out.println("抽个若水");
+        System.out.println("先冲个648");
     }
 }
