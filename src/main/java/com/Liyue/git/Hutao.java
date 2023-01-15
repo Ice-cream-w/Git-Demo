@@ -8,5 +8,6 @@ public class Hutao {
         System.out.println("抽个一命！");
         System.out.println("抽个若水");
         System.out.println("没钱，不冲了");
+        System.out.println("充blhx了，太涩了");
     }
 }
